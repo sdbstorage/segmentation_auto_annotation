@@ -1,1 +1,7 @@
-.fold
+annotations
+bed_pytorch_model
+dataset
+filtered_fall_images
+output
+runs
+yolov8x-seg.pt
